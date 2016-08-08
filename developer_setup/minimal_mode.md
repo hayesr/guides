@@ -1,3 +1,5 @@
+---
+---
 ManageIQ allows developers to start minimal services and/or the rails app via a "minimal" mode setting when starting the application.  Starting in minimal mode limits the number of workers that are started for a quicker application startup, or for targeted end-user testing of specific pieces of the application.
 
 ## Standard Startup

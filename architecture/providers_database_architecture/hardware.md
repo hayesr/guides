@@ -1,3 +1,5 @@
+---
+---
 # Hardware model documentation
 
 * Table: hosts

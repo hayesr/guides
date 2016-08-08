@@ -1,3 +1,5 @@
+---
+---
 # AvailabilityZone model documentation
 
 * Table: availability_zones

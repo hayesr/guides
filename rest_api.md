@@ -1,3 +1,5 @@
+---
+---
 # REST API
 
 The Appliance REST API guide has moved to the [manageiq_docs](https://github.com/ManageIQ/manageiq_docs) repo.

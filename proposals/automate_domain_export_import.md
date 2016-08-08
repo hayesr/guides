@@ -1,3 +1,5 @@
+---
+---
 # Background
 A domain is a collection of namespaces, classes, instances and methods. The community based project will ship with single domain called ManageIQ, which will have the model for the basic functionality of the project. Other domains can be added by the customer. As part of this change the export/import of the automate model has changed from a single XML file to multiple YAML files for every level (domain, namespace, class, instance, methods) and method scripts. The model can be exported into a directory or it can be zipped up into a single file. This wiki explains the changes to the export import process.
 

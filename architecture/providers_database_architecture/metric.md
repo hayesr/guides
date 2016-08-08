@@ -1,3 +1,5 @@
+---
+---
 # Metric model documentation
 
 Metrics for the whole ManageIQ, tracking VMs as well as baremetal.

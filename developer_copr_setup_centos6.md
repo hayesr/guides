@@ -1,3 +1,5 @@
+---
+---
 ## Developer Copr setup for CentOS6
 
 ### Background

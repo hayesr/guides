@@ -1,3 +1,5 @@
+---
+---
 # CloudResourceQuota model documentation
 
 To prevent system capacities from being exhausted without notification, you can set up quotas. Quotas are operational limits. For example, the number of gigabytes allowed for each tenant can be controlled so that cloud resources are optimized. Quotas can be enforced at both the tenant (or project) and the tenant-user level.

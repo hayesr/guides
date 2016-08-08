@@ -1,3 +1,5 @@
+---
+---
 # SecurityGroup model documentation
 
 * Table: security_groups

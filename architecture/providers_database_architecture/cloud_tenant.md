@@ -1,3 +1,5 @@
+---
+---
 # CloudTenant model documentation
 
 A container used to group or isolate resources and/or identity objects. Depending on the service operator, a tenant can map to a customer, account, organization, or project.

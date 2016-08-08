@@ -1,3 +1,5 @@
+---
+---
 # OrchestrationStackOutput model documentation
 
 * Table: orchestration_stack_outputs

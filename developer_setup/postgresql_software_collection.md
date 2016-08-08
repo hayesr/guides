@@ -1,3 +1,5 @@
+---
+---
 Currently ManageIQ requires version 9.4 or newer of PostgreSQL, but the
 version included in some Linux distributions (CentOS and RHEL 7, for
 example) is 9.2, and that won't change in the near future.

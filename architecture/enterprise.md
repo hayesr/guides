@@ -1,3 +1,5 @@
+---
+---
 # Enterprise Architecture
 
 To facilitate scaling it is possible to use multiple ManageIQ appliances each

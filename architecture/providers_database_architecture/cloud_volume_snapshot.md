@@ -1,3 +1,5 @@
+---
+---
 # CloudVolumeSnapshot model documentation
 
 A snapshot is a point in time copy of the data that a volume contains.

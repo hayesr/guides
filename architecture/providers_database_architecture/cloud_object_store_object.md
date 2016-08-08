@@ -1,3 +1,5 @@
+---
+---
 # CloudObjectStoreObject model documentation
 
 Stores data content, such as documents, images, and so on. You can also store custom metadata with an object.

@@ -1,3 +1,5 @@
+---
+---
 # VmOrTemplate model documentation
 
 TODO better description of model VmOrTemplate

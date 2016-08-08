@@ -1,3 +1,5 @@
+---
+---
 # Flavor model documentation
 
 List available flavors and get details for a specified flavor. A flavor is a hardware configuration for a server. Each flavor is a unique combination of disk space and memory capacity.

@@ -1,3 +1,5 @@
+---
+---
 # OrchestrationStackResource model documentation
 
 * Table: orchestration_stack_resources

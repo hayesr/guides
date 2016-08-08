@@ -1,3 +1,5 @@
+---
+---
 # Source Code Layout
 
 ManageIQ is a Rails application with the following standard layout

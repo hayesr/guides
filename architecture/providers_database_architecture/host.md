@@ -1,3 +1,5 @@
+---
+---
 # Host model documentation
 
 OpenstackInfra host is tied to Ironic service, allowing management and

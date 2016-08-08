@@ -1,3 +1,5 @@
+---
+---
 # CloudObjectStoreContainer model documentation
 
 Defines a namespace for objects. An object with the same name in two different containers represents two different objects. You can create any number of containers within an account.
